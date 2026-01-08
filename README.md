@@ -52,7 +52,17 @@ Dimensiones disponibles:
 
 ---
 
-## 🚀 Uso recomendado
+## 👤 Autor
+
+**Víctor Hugo Villegas Ríos**  
+Consultor Freelance en Análisis y Ciencia de Datos  
+Especialista en Power BI y Storytelling Visual  
+
+📧 Email: victorhugovillegas@example.com  
+🌐 LinkedIn: [linkedin.com/in/victorhugovillegas](https://linkedin.com/in/victorhugovillegas)  
+📸 Instagram: [@victorhugovillegas](https://instagram.com/victorhugovillegas)  
+📅 Enero 2026
+
 
 1. Clonar el repositorio:  
    ```bash
