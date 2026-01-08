@@ -64,7 +64,5 @@ Especialista en Power BI y Storytelling Visual
 
 
 
-1. Clonar el repositorio:  
-   ```bash
-   git clone https://github.com/usuario/estimaciones-agricolas.git
+
 
